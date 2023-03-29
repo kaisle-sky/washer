@@ -18,6 +18,7 @@ The user would provide: location data (for localizing costs), their current mach
 ## Where to start?  
   
 Probably start by using an API. Home Depot has a strong API I can use to pull information about price, energy usage, and customer rating  
+Correction: HomeDepot does not have a public API. I'll need to look elsewhere.
 Energy data at state level here: [eia API](https://www.eia.gov/opendata/)  
 More precise utility rate data: [NREL Utitlity Rates API](https://developer.nrel.gov/docs/electricity/utility-rates-v3/)  
   
